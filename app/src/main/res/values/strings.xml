@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TierTest</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="permission_location_rationale_message">The app needs location permission to identify the closest Scooter</string>
+    <string name="unexpected_error">Unexpected error happened, please try again later!</string>
+    <string name="loading">Loading…</string>
+    <string name="vehicle_data">Closest vehicle:\nModel: %1$s\nState: %2$s\nBattery: %3$d </string>
+    <string name="enable">Enable</string>
+    <string name="exit_app">Exit app</string>
+    <string name="without_permission_dialog_title">Without location permission the app can not work properly!</string>
+
+</resources>
