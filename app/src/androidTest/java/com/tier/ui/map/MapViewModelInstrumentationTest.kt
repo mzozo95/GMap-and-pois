@@ -33,7 +33,7 @@ class MapViewModelInstrumentationTest {
     @Mock
     lateinit var closestVehiclesObserver: Observer<Vehicle>
 
-    //Must be android test because of Android.location.distance inner call which otherwise returns always null
+    //Must be android test because of Android.location.distance inner call which otherwise returns always null/0
     @Suppress("IllegalIdentifier")
     @Test
     fun `viewModel startLocationUpdate should initiate closestVehicleObserver_onchange with the closest vehicle`() {
