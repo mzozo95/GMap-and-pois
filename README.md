@@ -38,4 +38,4 @@ Used libraries:
 
 Sample image of the application: 
 
-![sample image](images/sample.png)
+![sample image](images/sample.PNG)
