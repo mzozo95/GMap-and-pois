@@ -22,7 +22,9 @@ mapApiKey = "your maps api key"
 
 Now you can build and run the project on a device or on an emulator.
 
-Advice for testing:
+There are also unit tests and an instrumentation test for the ViewModel which you can run!
+
+Advice for UI testing:
 - Set your fake location to Berlin centrum!
 - Inspect the bottom layout behaviour for location changes, specially when moving close to a new poi.
 
