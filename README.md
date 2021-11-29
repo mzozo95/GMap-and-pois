@@ -2,7 +2,7 @@
 
 This is a simple map application with basic networking, written in kotlin in MVVM pattern.
  
-The app allows users to visualise the scooters on a map with simple POIs and Clusters and displays the details of the closest vehicle in a bottom layout. When the user opens the app, it navigates the map-camera to the user's location. The bottom layout is avare of user location changes. 
+The app allows users to visualise the scooters on a map with simple POIs and Clusters and displays the details of the closest vehicle in a bottom layout. When the user opens the app, it navigates the map-camera to the user's location. The bottom layout is aware of user location changes. 
 
 Build instructions:
 
