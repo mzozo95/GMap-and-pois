@@ -1,4 +1,4 @@
-# TierTest, simple map application
+# Simple map application
 
 This is a simple map application with basic networking, written in kotlin in MVVM pattern.
  
